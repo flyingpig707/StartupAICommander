@@ -22,8 +22,8 @@ const samples = [
         <p class="edition"><span class="edition-dot"></span> v0.1 · 三章样章开放阅读 · 全书写作中</p>
       </div>
       <div class="cover-stage">
-        <div class="cover-caption">COVER STUDY / 01</div>
-        <img class="cover-image" :src="withBase('/assets/cover.png')" alt="《创业AI指挥官》封面设计初稿，副标题AI九段高手十步问道，张建勇、吴鹏著" width="1024" height="1536" />
+        <div class="cover-caption">COVER STUDY / 02</div>
+        <img class="cover-image" :src="withBase('/assets/cover-compass-v2.png')" alt="《创业AI指挥官》罗盘版封面，左侧九段进阶轨道与右侧十步问道圆环交汇，张建勇、吴鹏著" width="1024" height="1536" />
         <p class="cover-footnote">封面设计初稿 · 非正式出版封面</p>
       </div>
     </section>

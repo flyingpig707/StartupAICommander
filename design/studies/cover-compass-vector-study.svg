@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1536" viewBox="0 0 1024 1536">
+<title>创业AI指挥官 — AI九段高手十步问道 — 张建勇 吴鹏 著</title>
+<desc>AI指挥官罗盘：左侧三阶九段轨道，右侧十步决策环，交汇为无限循环；暖白、墨黑、朱红与浅青绿。</desc>
+<rect width="1024" height="1536" fill="#f7f3e9"/>
+<rect x="0" y="0" width="13" height="1536" fill="#b9402e"/>
+<g font-family="PingFang SC, Microsoft YaHei, sans-serif" fill="#272724">
+<text x="86" y="108" font-size="24" letter-spacing="5">AI指挥官丛书</text>
+<path d="M86 143H938" stroke="#272724" stroke-width="1"/>
+<text x="78" y="351" font-size="170" font-weight="700" letter-spacing="-6">创业</text>
+<text x="77" y="536" font-size="164" font-weight="750" letter-spacing="-6">AI指挥官</text>
+<text x="88" y="618" font-size="38" letter-spacing="3">AI九段高手十步问道</text>
+<path d="M88 669H150" stroke="#b9402e" stroke-width="7"/>
+<path d="M103 790 C192 730 357 747 440 793 C521 838 569 777 710 763 C868 744 967 832 973 1003 C979 1155 915 1271 746 1276 C596 1280 533 1233 430 1267 C308 1306 137 1286 80 1205 C20 1122 45 905 103 790Z" fill="#e2ebe3"/>
+<path d="M515 1015 C438 908 382 780 310 786 C250 792 214 904 130 1050 C60 1170 65 1224 203 1224 C252 1224 300 1224 348 1224 C422 1224 438 1183 481 1104 C510 1052 548 984 576 933 C629 837 698 791 783 813 C883 838 930 912 929 1015 C928 1126 850 1211 748 1218 C650 1226 591 1133 515 1015 Z" fill="none" stroke="#272724" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M515 1015 C438 908 382 780 310 786 C250 792 214 904 130 1050 C60 1170 65 1224 203 1224 C252 1224 300 1224 348 1224 C422 1224 438 1183 481 1104 C510 1052 548 984 576 933 C629 837 698 791 783 813 C883 838 930 912 929 1015 C928 1126 850 1211 748 1218 C650 1226 591 1133 515 1015 Z" fill="none" stroke="#f7f3e9" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="279.51" cy="799.12" r="16" fill="#f7f3e9" stroke="#272724" stroke-width="4"/><circle cx="279.51" cy="799.12" r="10" fill="#ef7b35"/>
+<circle cx="225.75" cy="871.22" r="16" fill="#f7f3e9" stroke="#272724" stroke-width="4"/><circle cx="225.75" cy="871.22" r="10" fill="#ef7b35"/>
+<circle cx="153.83" cy="1007.29" r="16" fill="#f7f3e9" stroke="#272724" stroke-width="4"/><circle cx="153.83" cy="1007.29" r="10" fill="#ef7b35"/>
+<circle cx="585.71" cy="916.26" r="10" fill="#f7f3e9" stroke="#272724" stroke-width="4"/>
+<circle cx="655.25" cy="836.85" r="10" fill="#f7f3e9" stroke="#272724" stroke-width="4"/>
+<circle cx="757.98" cy="808.42" r="10" fill="#f7f3e9" stroke="#272724" stroke-width="4"/>
+<circle cx="856.75" cy="846.62" r="10" fill="#f7f3e9" stroke="#272724" stroke-width="4"/>
+<circle cx="917.64" cy="933.19" r="10" fill="#f7f3e9" stroke="#272724" stroke-width="4"/>
+<circle cx="927.68" cy="1037.91" r="10" fill="#f7f3e9" stroke="#272724" stroke-width="4"/>
+<circle cx="890.92" cy="1137.25" r="10" fill="#f7f3e9" stroke="#272724" stroke-width="4"/>
+<circle cx="805.90" cy="1204.86" r="10" fill="#f7f3e9" stroke="#272724" stroke-width="4"/>
+<circle cx="701.13" cy="1213.70" r="10" fill="#f7f3e9" stroke="#272724" stroke-width="4"/>
+<circle cx="614.54" cy="1154.57" r="10" fill="#f7f3e9" stroke="#272724" stroke-width="4"/>
+<text x="307" y="1045" text-anchor="middle" font-size="37" font-weight="650">九段进阶</text>
+<path d="M238 1064 Q302 1054 371 1059" stroke="#ef7b35" stroke-width="5" stroke-linecap="round" fill="none"/>
+<text x="307" y="1102" text-anchor="middle" font-size="19" fill="#62665f" letter-spacing="3">建立交付能力</text>
+<text x="746" y="1012" text-anchor="middle" font-size="37" font-weight="650">十步问道</text>
+<path d="M677 1031 Q745 1021 812 1026" stroke="#ef7b35" stroke-width="5" stroke-linecap="round" fill="none"/>
+<text x="746" y="1069" text-anchor="middle" font-size="19" fill="#62665f" letter-spacing="3">把生意走一遍</text>
+<path d="M86 1363H938" stroke="#272724" stroke-width="1"/>
+<text x="86" y="1432" font-size="32" letter-spacing="3">张建勇 吴鹏 著</text>
+<rect x="890" y="1401" width="48" height="48" fill="#b9402e"/>
+<path d="M914 1425C906 1411 897 1419 900 1427C903 1436 909 1433 914 1425C920 1415 928 1418 928 1425C928 1435 919 1435 914 1425Z" fill="none" stroke="#f7f3e9" stroke-width="2.5"/>
+</g></svg>

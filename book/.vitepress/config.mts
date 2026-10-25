@@ -14,7 +14,7 @@ export default defineConfig({
     ['meta', { property: 'og:type', content: 'book' }],
     ['meta', { property: 'og:title', content: '创业AI指挥官｜AI九段高手十步问道' }],
     ['meta', { property: 'og:description', content: '张建勇 吴鹏 著 · 三章样章开放阅读' }],
-    ['meta', { property: 'og:image', content: 'https://flyingpig707.github.io/StartupAICommander/assets/cover.png' }],
+    ['meta', { property: 'og:image', content: 'https://flyingpig707.github.io/StartupAICommander/assets/cover-compass-v2.png' }],
     ['link', { rel: 'icon', type: 'image/svg+xml', href: `${base}favicon.svg` }],
   ],
   themeConfig: {
