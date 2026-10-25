@@ -5,3 +5,4 @@ book/.vitepress/dist/
 .env
 .env.*
 *.log
+design/review/
