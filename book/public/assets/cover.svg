@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1536" viewBox="0 0 1024 1536">
+<title>创业AI指挥官 — AI九段高手十步问道 — 张建勇 吴鹏 著</title>
+<desc>暖白墨黑朱红封面，两条路径交汇，九级阶梯与十个节点。</desc>
+<rect width="1024" height="1536" fill="#f7f3e9"/>
+<rect x="0" y="0" width="13" height="1536" fill="#b9402e"/>
+<g font-family="PingFang SC, Microsoft YaHei, sans-serif" fill="#272724">
+<text x="86" y="108" font-size="24" letter-spacing="5">AI指挥官丛书</text>
+<path d="M86 143H938" stroke="#272724" stroke-width="1"/>
+<text x="78" y="351" font-size="170" font-weight="700" letter-spacing="-6">创业</text>
+<text x="77" y="536" font-size="164" font-weight="750" letter-spacing="-6">AI指挥官</text>
+<text x="88" y="618" font-size="38" letter-spacing="3">AI九段高手十步问道</text>
+<path d="M88 669H150" stroke="#b9402e" stroke-width="7"/>
+<g opacity=".17"><path d="M115 1245H920M115 1180H920M115 1115H920M115 1050H920M115 985H920M115 920H920M115 855H920" stroke="#272724" stroke-width=".6"/></g>
+<path d="M190 775L802 1126" stroke="#272724" stroke-width="3" fill="none"/>
+<circle cx="190" cy="775" r="7" fill="#f7f3e9" stroke="#272724" stroke-width="3"/><circle cx="258" cy="814" r="7" fill="#f7f3e9" stroke="#272724" stroke-width="3"/><circle cx="326" cy="853" r="7" fill="#f7f3e9" stroke="#272724" stroke-width="3"/><circle cx="394" cy="892" r="7" fill="#f7f3e9" stroke="#272724" stroke-width="3"/><circle cx="462" cy="931" r="7" fill="#f7f3e9" stroke="#272724" stroke-width="3"/><circle cx="530" cy="970" r="7" fill="#f7f3e9" stroke="#272724" stroke-width="3"/><circle cx="598" cy="1009" r="7" fill="#f7f3e9" stroke="#272724" stroke-width="3"/><circle cx="666" cy="1048" r="7" fill="#f7f3e9" stroke="#272724" stroke-width="3"/><circle cx="734" cy="1087" r="7" fill="#f7f3e9" stroke="#272724" stroke-width="3"/><circle cx="802" cy="1126" r="7" fill="#f7f3e9" stroke="#272724" stroke-width="3"/>
+<polygon points="140,1190 202,1190 202,1151 264,1151 264,1112 326,1112 326,1073 388,1073 388,1034 450,1034 450,995 512,995 512,956 574,956 574,917 636,917 636,878 698,878 698,839 730,852 730,887 668,887 668,926 606,926 606,965 544,965 544,1004 482,1004 482,1043 420,1043 420,1082 358,1082 358,1121 296,1121 296,1160 234,1160 234,1199 172,1199 172,1238" fill="#b9402e"/>
+<path d="M140 1190h62v-39h62v-39h62v-39h62v-39h62v-39h62v-39h62v-39h62v-39h62v-39" fill="none" stroke="#f7f3e9" stroke-width="2" opacity=".6"/>
+<text x="140" y="1300" font-size="14" letter-spacing="3" fill="#716c63">九段 · 能力进阶</text>
+<text x="660" y="1300" font-size="14" letter-spacing="3" fill="#716c63">十步 · 创业实践</text>
+<path d="M86 1363H938" stroke="#272724" stroke-width="1"/>
+<text x="86" y="1432" font-size="32" letter-spacing="3">张建勇 吴鹏 著</text>
+<rect x="890" y="1401" width="48" height="48" fill="#b9402e"/>
+<path d="M900 1437v-11h9v-10h9v-7h9" fill="none" stroke="#f7f3e9" stroke-width="3"/>
+</g></svg>
